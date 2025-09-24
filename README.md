@@ -52,4 +52,3 @@ https://medium.com/r?url=https%3A%2F%2Fnewsfordaily.us%2F
 https://www.youtube.com/redirect?event=channel_description&q=newsfordaily.us%2F
 https://gen.medium.com/r?url=https%3A%2F%2Fnewsfordaily.us/
 https://www.researchgate.net/deref/https%3A%2F%2Fnewsfordaily.us
-<img width="65" height="1081" alt="image" src="https://github.com/user-attachments/assets/c2955e61-8c7e-4c73-aa2e-9d709fd92c86" />
